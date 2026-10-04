@@ -132,6 +132,10 @@ Tag HTML yang Digunakan
 4. Klik dua kali pada file HTML atau jalankan menggunakan ekstensi Live Server di VS Code.
 5. Halaman web profil LPM Gema Alpas akan terbuka di browser Anda.
 
+### Tampilan HTML
+<img width="566" height="820" alt="image" src="https://github.com/user-attachments/assets/b86c8a03-d3e8-4c79-a5bb-de632d213dc2" />
+
+
 ### Kesimpulan
 
 Proyek ini dirancang untuk menerapkan dasar-dasar pengembangan web menggunakan HTML murni. Seluruh komponen tugas seperti struktur dokumen, penggunaan minimal dua gambar dengan atribut alt, empat jenis link (anchor internal, eksternal, dan mailto), serta tiga tipe list (``<ul>``, ``<ol>``, dan ``<dl>``) telah diterapkan secara optimal.
